@@ -1,3 +1,24 @@
 body {
     font-family: 'Vesper Libre', serif;
+    color: #1a1a1a;
+    line-height: 1.5;
+    font-size: 1.125 rem;
+}
+image {
+    width: 100%;
+}
+figcaption {
+    font-family: Open Sans;
+}
+.article-category {
+    font-family: Open Sans;
+}
+.sub-title {
+    font-family: Open Sans;
+}
+.author {
+    font-family: Open Sans;
+}
+time {
+    font-family: Open Sans;
 }

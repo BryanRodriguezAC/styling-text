@@ -36,3 +36,30 @@ h1 {
 .sub-title {
     font-weight: bold;
 }
+figcaption {
+    font-size: .85rem;
+    text-align: center;
+    color: #757575;
+    font-style: italic;
+}
+a {
+    color: #1a1a1a;
+    text-decoration: underline;
+
+}
+a:hover {
+    text-decoration: none;
+    color: #ff3530;
+}
+.author {
+    font-size: .85rem;
+}
+time {
+    font-size: .85rem;
+}
+.author {
+    margin-bottom: 0;
+}
+figure {
+    margin: 1.25em 0;
+}
